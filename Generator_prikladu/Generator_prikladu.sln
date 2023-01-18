@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Generator_prikladu", "Generator_prikladu\Generator_prikladu.pyproj", "{F2779819-2B8B-4712-B0C9-3526CCDB24B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2779819-2B8B-4712-B0C9-3526CCDB24B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2779819-2B8B-4712-B0C9-3526CCDB24B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EC8427-412D-4D74-8A6B-3BD4C60A69CE}
+	EndGlobalSection
+EndGlobal
